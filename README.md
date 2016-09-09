@@ -2,8 +2,8 @@
 A professional resource for VR in journalism.
 Journalism + VR = #joVRnalism
 
-HTTP://JOVRNALISM.com 
+http://JOVRNALISM.com 
 
-twitter.com/JOVRNALISM 
+http://twitter.com/JOVRNALISM 
 
-fb.com/JOVRNALISM 
+http://fb.com/JOVRNALISM 
