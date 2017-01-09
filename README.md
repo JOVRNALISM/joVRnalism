@@ -1,5 +1,5 @@
 # JOVRNALISM
-A professional resource for VR in journalism.
+Open professional resource for VR in journalism by Saleem Khan
 Journalism + VR = #joVRnalism
 
 http://JOVRNALISM.com 
